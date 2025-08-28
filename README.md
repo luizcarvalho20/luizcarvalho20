@@ -16,7 +16,7 @@ Sou apaixonado por tecnologia, curioso por natureza e focado em aprender continu
 
 ## 📂 Projetos em Destaque
 🔹 [QA - Portfólio de Aprendizagem](https://github.com/luizcarvalho20/Qa-teste-apredizagem) – Testes manuais, automação e APIs  
-🔹 [Desafio DIO](https://github.com/luizcarvalho20/DesafioDIO2021) – Exercícios e lógica de programação em Java  
+🔹 [Desafio DIO](https://github.com/luizcarvalho20/todo-list-nodejs.git) – Projeto: To-Do List com Node.js  
 
 ---
 
