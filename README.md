@@ -29,17 +29,17 @@ Sou apaixonado por aprender, explorar novas ferramentas e criar soluções que g
 
 ## 📌 Projetos em Destaque
 
-🔹 [**To-Do List (Node.js)**](https://github.com/luizcarvalho20/todo-list-nodejs)  
-API RESTful completa com persistência em banco de dados.
+🔹 [**Exercicios-Dio-Bootcamp**](https://github.com/luizcarvalho20/Dio-CI-T-Bootcamp.git)  
+Exercicios praticos do Bootcamp.
 
-🔹 [**To-Do List Mobile**](https://github.com/luizcarvalho20/todo-list-mobile)  
-Aplicativo mobile com TypeScript.
+🔹 [**Desafio-Dio-Sudoku-Game**]((https://github.com/luizcarvalho20/desafio-dio-sudoku-game.git))  
+Desafio de codigo do bootcamp backend Java e AWS DIO e CI&T.
 
-🔹 [**Adonay Gospel Web Radio**](https://github.com/luizcarvalho20/Adonay-Gospel-Web-Radio-main)  
-Projeto pessoal com frontend moderno.
+🔹 [**Desafio-POO-Dio**](https://github.com/luizcarvalho20/desafio-poo-dio.git)  
+Desafio de programaçao orientada a objeto java Bootcamp Backend Java e AWS DIO e CI&T.
 
-🔹 [**Qa-teste-aprendizagem**](https://github.com/luizcarvalho20/qa-teste-aprendizagem)  
-Exercícios e testes práticos com automação.
+🔹 [**Desafio-Dio-Lab-Open-Source**](https://github.com/luizcarvalho20/dio-lab-open-source.git)  
+Desafio de contribuição em projeto Open source Bootcamp Backend Java e AWS DIO e CI&T.
 
 ---
 
