@@ -32,7 +32,7 @@ Sou apaixonado por aprender, explorar novas ferramentas e criar soluções que g
 🔹 [**Exercicios-Dio-Bootcamp**](https://github.com/luizcarvalho20/Dio-CI-T-Bootcamp.git)  
 Exercicios praticos do Bootcamp.
 
-🔹 [**Desafio-Dio-Sudoku-Game**]((https://github.com/luizcarvalho20/desafio-dio-sudoku-game.git))  
+🔹 [**Desafio-Dio-Sudoku-Game**](https://github.com/luizcarvalho20/desafio-dio-sudoku-game.git)  
 Desafio de codigo do bootcamp backend Java e AWS DIO e CI&T.
 
 🔹 [**Desafio-POO-Dio**](https://github.com/luizcarvalho20/desafio-poo-dio.git)  
