@@ -1,12 +1,16 @@
 # 👋 Olá, eu sou o Luiz Carvalho!
 
-🎯 Em transição de carreira para a área de **Tecnologia da Informação**, iniciei minha jornada focado em **Qualidade de Software (QA)**, mas ampliei minhas habilidades para **desenvolvimento full-stack, APIs, automação e banco de dados**.  
-Sou apaixonado por aprender, explorar novas ferramentas e criar soluções que gerem impacto real.
+🎯 Estou em **transição de carreira para a área de Tecnologia da Informação**, construindo uma base sólida tanto em **Qualidade de Software (QA)** quanto em **Desenvolvimento Java Júnior** — duas áreas que hoje caminham juntas no meu plano profissional.
+
+Minha jornada começou com foco em **QA**, onde desenvolvi olhar crítico, atenção a detalhes e mentalidade de qualidade. Com o tempo, ampliei minhas habilidades para **desenvolvimento backend**, **programação orientada a objetos**, **APIs**, **automação** e **lógica de programação**, passando a atuar também como **Dev Java Júnior**.
+
+Sou movido por aprendizado contínuo, gosto de entender o *porquê* das coisas e acredito que **bons sistemas nascem da combinação entre código bem escrito e qualidade bem pensada**.
 
 ---
 
 ## 🚀 Tecnologias & Ferramentas
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=fff)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)  
@@ -19,27 +23,30 @@ Sou apaixonado por aprender, explorar novas ferramentas e criar soluções que g
 
 ## 🧩 Áreas de Atuação
 
-- **Testes & QA** → casos de teste, reporte de falhas, automação com **Selenium** e **Cypress**  
-- **APIs & Backend** → construção e consumo de **APIs REST**, integração com **Postman/Insomnia**  
+- **Qualidade de Software (QA)** → criação de casos de teste, reporte de falhas, testes manuais e automação com **Selenium** e **Cypress**  
+- **Desenvolvimento Java (Júnior)** → aplicações em Java, **Programação Orientada a Objetos**, Collections, validações e regras de negócio  
+- **Backend & APIs** → construção e consumo de **APIs REST**, testes e integração com **Postman** e **Insomnia**  
+- **Aplicações Desktop** → desenvolvimento de interfaces gráficas com **Java Swing**  
 - **Frontend & Mobile** → projetos em **JavaScript/TypeScript**, aplicações web e mobile  
-- **Banco de Dados** → consultas e persistência de dados em **SQL**  
-- **Metodologias Ágeis** → práticas de **Scrum** e **Kanban**  
+- **Banco de Dados** → consultas, modelagem básica e persistência de dados em **SQL**  
+- **Metodologias Ágeis** → vivência com **Scrum** e **Kanban**, colaboração em times e organização de tarefas  
+- **Versionamento & Build** → **Git**, **GitHub** e gerenciamento de projetos com **Maven**
 
 ---
 
 ## 📌 Projetos em Destaque
 
-🔹 [**Exercicios-Dio-Bootcamp**](https://github.com/luizcarvalho20/Dio-CI-T-Bootcamp.git)  
-Exercicios praticos do Bootcamp.
+🔹 **[Exercicios-Dio-Bootcamp](https://github.com/luizcarvalho20/Dio-CI-T-Bootcamp.git)**  
+Exercícios práticos desenvolvidos ao longo do Bootcamp, reforçando lógica, Java e fundamentos de backend.
 
-🔹 [**Desafio-Dio-Sudoku-Game**](https://github.com/luizcarvalho20/desafio-dio-sudoku-game.git)  
-Desafio de codigo do bootcamp backend Java e AWS DIO e CI&T.
+🔹 **[Desafio-Dio-Sudoku-Game](https://github.com/luizcarvalho20/desafio-dio-sudoku-game.git)**  
+Jogo de Sudoku desenvolvido em **Java**, com execução via **terminal** e **interface gráfica (Swing)**, aplicando POO, validações, controle de estado do jogo e histórico de jogadas (undo).
 
-🔹 [**Desafio-POO-Dio**](https://github.com/luizcarvalho20/desafio-poo-dio.git)  
-Desafio de programaçao orientada a objeto java Bootcamp Backend Java e AWS DIO e CI&T.
+🔹 **[Desafio-POO-Dio](https://github.com/luizcarvalho20/desafio-poo-dio.git)**  
+Projeto focado em **Programação Orientada a Objetos**, explorando abstração, encapsulamento, herança e polimorfismo no contexto de um bootcamp backend Java.
 
-🔹 [**Desafio-Dio-Lab-Open-Source**](https://github.com/luizcarvalho20/dio-lab-open-source.git)  
-Desafio de contribuição em projeto Open source Bootcamp Backend Java e AWS DIO e CI&T.
+🔹 **[Desafio-Dio-Lab-Open-Source](https://github.com/luizcarvalho20/dio-lab-open-source.git)**  
+Desafio de contribuição em projeto **Open Source**, com foco em boas práticas, versionamento e colaboração em ambiente real.
 
 ---
 
@@ -50,5 +57,6 @@ Desafio de contribuição em projeto Open source Bootcamp Backend Java e AWS DIO
 
 ---
 
-💡 *“A tecnologia não é apenas sobre código — é sobre criar soluções que transformam negócios e pessoas.”*
+💡 *Acredito que qualidade e desenvolvimento caminham juntos. Meu objetivo é evoluir como profissional capaz de escrever código limpo, testável e com impacto real nos produtos e nas pessoas.*
+
 
