@@ -36,8 +36,8 @@ Sou movido por aprendizado contínuo, gosto de entender o *porquê* das coisas e
 
 ## 📌 Projetos em Destaque
 
-🔹 **[Exercicios-Dio-Bootcamp](https://github.com/luizcarvalho20/Dio-CI-T-Bootcamp.git)**  
-Exercícios práticos desenvolvidos ao longo do Bootcamp, reforçando lógica, Java e fundamentos de backend.
+🔹 **[kanban-board-api](https://github.com/luizcarvalho20/kanban-board-api.git)**  
+Este projeto consiste em uma API para gerenciamento de quadros Kanban, desenvolvida durante o Bootcamp da DIO. O diferencial desta implementação é o foco em **Qualidade de Software (QA)**, garantindo que as regras de negócio sejam validadas por uma suíte de testes automatizados
 
 🔹 **[Desafio-Dio-Sudoku-Game](https://github.com/luizcarvalho20/desafio-dio-sudoku-game.git)**  
 Jogo de Sudoku desenvolvido em **Java**, com execução via **terminal** e **interface gráfica (Swing)**, aplicando POO, validações, controle de estado do jogo e histórico de jogadas (undo).
