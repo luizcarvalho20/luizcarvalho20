@@ -51,3 +51,5 @@ Um jogo clássico focado em lógica pura e interface gráfica (Swing).
 ---
 
 📫 Vamos nos conectar?
+
+[Linkedin: Luiz Carvalho](https://www.linkedin.com/in/luizcarvalho20/) 
