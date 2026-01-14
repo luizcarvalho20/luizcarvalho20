@@ -40,13 +40,7 @@ Um jogo clássico focado em lógica pura e interface gráfica (Swing).
 
 ---
 
-## 📊 Atividade no GitHub
 
-![Commits](https://img.shields.io/badge/Commits-Ajudando%20a%20Comunidade-orange?style=for-the-badge&logo=github)
-![Repositórios](https://img.shields.io/badge/Projetos-10+-blue?style=for-the-badge&logo=github)
-![Estudos](https://img.shields.io/badge/Foco-Java%20%26%20Spring-green?style=for-the-badge&logo=spring)
-
----
 
 ---
 
