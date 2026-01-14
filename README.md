@@ -39,8 +39,12 @@ Sou movido por aprendizado contínuo, gosto de entender o *porquê* das coisas e
 🔹 **[kanban-board-api](https://github.com/luizcarvalho20/kanban-board-api.git)**  
 Este projeto consiste em uma API para gerenciamento de quadros Kanban, desenvolvida durante o Bootcamp da DIO. O diferencial desta implementação é o foco em **Qualidade de Software (QA)**, garantindo que as regras de negócio sejam validadas por uma suíte de testes automatizados
 
-🔹 **[Desafio-Dio-Sudoku-Game](https://github.com/luizcarvalho20/desafio-dio-sudoku-game.git)**  
-Jogo de Sudoku desenvolvido em **Java**, com execução via **terminal** e **interface gráfica (Swing)**, aplicando POO, validações, controle de estado do jogo e histórico de jogadas (undo).
+🔹 **[Desafio-Dio-api](https://github.com/luizcarvalho20/desafio-dio-api.git)**  
+O projeto utiliza uma estrutura multi-módulo para separar conceitos puramente teóricos de uma implementação de produção:
+
+core-patterns: Implementações puras (Java SE) de Singleton, Strategy e Facade. Ideal para estudo de fundamentos.
+
+payments-api: API REST funcional com persistência, validação e tratamento de exceções
 
 🔹 **[Desafio-POO-Dio](https://github.com/luizcarvalho20/desafio-poo-dio.git)**  
 Projeto focado em **Programação Orientada a Objetos**, explorando abstração, encapsulamento, herança e polimorfismo no contexto de um bootcamp backend Java.
