@@ -36,7 +36,18 @@ Um jogo clássico focado em lógica pura e interface gráfica (Swing).
 
 **Highlight**: Separação total entre a Engine de cálculo e a camada de visualização.
 
-## 📊 Estatísticas do GitHub
-<p align="left"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizcarvalho20&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcarvalho20&layout=compact&langs_count=7&theme=dracula"/> </p>
+---
+
+---
+
+## 📊 Atividade no GitHub
+
+![Commits](https://img.shields.io/badge/Commits-Ajudando%20a%20Comunidade-orange?style=for-the-badge&logo=github)
+![Repositórios](https://img.shields.io/badge/Projetos-10+-blue?style=for-the-badge&logo=github)
+![Estudos](https://img.shields.io/badge/Foco-Java%20%26%20Spring-green?style=for-the-badge&logo=spring)
+
+---
+
+---
 
 📫 Vamos nos conectar?
