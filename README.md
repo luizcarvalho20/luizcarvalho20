@@ -45,6 +45,7 @@ Hoje, foco na construção de APIs resilientes utilizando o ecossistema Spring B
 
 - **Testes de Unidade & Integração:** JUnit5, Jest, Supertest  
 - **Testes de API:** Postman, Newman  
+- **Automação E2E:** Playwright  
 - Mentalidade de **Testabilidade** e boas práticas de QA  
 
 ### 🛠️ Ferramentas & DevOps
@@ -53,6 +54,48 @@ Hoje, foco na construção de APIs resilientes utilizando o ecossistema Spring B
 - **Pipeline / CI:** GitHub Actions  
 - **Documentação:** Swagger / OpenAPI  
 - Metodologias: **Kanban** e **Scrum**
+
+---
+
+## 🧪 Portfólio de QA
+
+Construí um portfólio prático de QA com foco em três frentes essenciais da área: **QA Manual**, **Testes de API** e **Automação E2E**.  
+A proposta foi desenvolver repositórios separados, com documentação, evidências e evolução técnica clara, simulando entregas reais de um profissional de testes.
+
+### 🔎 **QA Manual - SauceDemo**
+Projeto voltado para fundamentos de QA Manual, com análise do sistema, mapeamento de cenários, casos de teste, plano de teste, BDD e documentação de evidências.
+
+✔️ Análise de funcionalidades e riscos  
+✔️ Casos de teste documentados  
+✔️ Cenários em Gherkin  
+✔️ Plano de teste  
+✔️ Registro de bugs e evidências  
+➡️ https://github.com/luizcarvalho20/qa-manual-saucedemo
+
+---
+
+### 📡 **QA API - Restful Booker**
+Projeto focado em testes de API com Postman e Newman, cobrindo exploração de endpoints, autenticação, fluxo CRUD, validações de resposta e automação de verificações.
+
+✔️ Collection estruturada no Postman  
+✔️ Environment configurado  
+✔️ Validação de status codes e payloads  
+✔️ Automação com `pm.test`  
+✔️ Execução via Newman  
+✔️ Documentação técnica do processo  
+➡️ https://github.com/luizcarvalho20/qa-api-restful-booker
+
+---
+
+### 🤖 **QA UI Automation - Playwright**
+Projeto de automação end-to-end com Playwright, cobrindo fluxos críticos de uma aplicação web, geração de relatórios e pipeline de integração contínua.
+
+✔️ Testes E2E com Playwright + TypeScript  
+✔️ Automação de login, carrinho e checkout  
+✔️ Relatórios HTML de execução  
+✔️ Organização de evidências  
+✔️ CI com GitHub Actions  
+➡️ https://github.com/luizcarvalho20/qa-ui-automation-playwright
 
 ---
 
